@@ -82,7 +82,7 @@ The portfolio is designed to work on:
 ## 🌐 Live Website
 
 **Portfolio:**  
-https://hiranmaikuna.github.io/Hiranmai-Portfolio/
+https://hiranmaikuna.github.io/Hiranmai-protfolio/
 
 ## 📂 Project Structure
 
